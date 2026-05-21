@@ -54,7 +54,6 @@ GitHub: https://github.com/simanta2330/modern_supershop_management_system
 
 - HTML
 - CSS
-- JavaScript
 - Bootstrap
 
 ### Backend
@@ -160,8 +159,7 @@ GitHub: https://github.com/simanta2330/modern_supershop_management_system
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/simanta2330/modern_supershop_management_system.git
-cd modern_supershop_management_system
+git clone https://github.com/simanta2330/modern_supershop_management_system
 ```
 
 ### 2. Install XAMPP
@@ -287,7 +285,7 @@ Generates sales reports and transaction summaries for business analysis.
 
 ---
 
-## Roadmap
+## Future Works
 
 - Barcode Scanner Integration
 - Online Payment Gateway
