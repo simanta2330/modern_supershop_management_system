@@ -271,11 +271,19 @@ Generates sales reports and transaction summaries for business analysis.
 ## Screenshots
 
 - Login Page
+  <img width="1891" height="978" alt="Screenshot 2026-05-20 020850" src="https://github.com/user-attachments/assets/754e5669-1180-4de9-a8b9-9702bd028283" />
 - Dashboard
+  <img width="1900" height="952" alt="Screenshot 2026-05-20 020921" src="https://github.com/user-attachments/assets/cbe7c760-0253-4def-a423-3b75f7ec335b" />
 - Product Management
+  <img width="1902" height="960" alt="Screenshot 2026-05-20 020813" src="https://github.com/user-attachments/assets/9101a99d-3ebc-48d0-bf2c-c621cd966f39" />
 - Inventory Management
+  <img width="1906" height="963" alt="Screenshot 2026-05-20 021102" src="https://github.com/user-attachments/assets/20e32ed7-e36d-4931-88a7-0696e9e190b7" />
 - Billing System
+  <img width="1908" height="958" alt="Screenshot 2026-05-20 021132" src="https://github.com/user-attachments/assets/d17001a9-af3d-4747-b738-cbee18245b2d" />
 - Sales Reports
+  <img width="1885" height="952" alt="image" src="https://github.com/user-attachments/assets/69233a2d-264a-442a-960a-59112da3f5b3" />
+- Admin Dashboard
+  <img width="1883" height="956" alt="image" src="https://github.com/user-attachments/assets/4e18858b-79e4-493e-b24a-ce8bc05ed6b8" />
 
 ---
 
