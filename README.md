@@ -141,8 +141,8 @@ http://localhost/modern_supershop_management_system
 ### Admin Login
 
 ```text
-Username: admin
-Password: admin123
+Username: abul Kasem
+Password: 123456
 ```
 
 You can change credentials from the database or admin panel.
@@ -253,14 +253,16 @@ MIT License
 
 ## Team Members
 
-- Simanta Mondal
-- Add Other Team Members Here
+- Simanta Mondal (Team Leader)
+- Rejoan Ahmed
+- Maruf Billah Sourav
+- Mahmuda Ety
 
 ---
 
 ## Contact
 
-Email: your-email@example.com
+Email: cyber.simanta53@gmail.com
 
 ---
 
