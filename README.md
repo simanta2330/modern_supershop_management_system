@@ -1,4 +1,5 @@
-![Banner](assets/banner.png)
+![Banner](assets/<img width="3000" height="1971" alt="banner" src="https://github.com/user-attachments/assets/6f7346ae-4aaa-4d4c-83d3-dd39aa059dd6" />
+)
 
 # Modern Supershop Management System
 
