@@ -74,18 +74,81 @@ GitHub: https://github.com/simanta2330/modern_supershop_management_system
 ## Project Structure
 
 ```text
+## Project Structure
+
+```text
 /modern_supershop_management_system
-│── /admin
-│── /assets
-│── /css
-│── /js
-│── /database
-│── /includes
-│── /uploads
-│── index.php
-│── login.php
-│── dashboard.php
-│── README.md
+│
+├── /admin
+│   ├── dashboard.php
+│   ├── products.php
+│   ├── add_product.php
+│   ├── edit_product.php
+│   ├── delete_product.php
+│   ├── categories.php
+│   ├── customers.php
+│   ├── employees.php
+│   ├── inventory.php
+│   ├── sales.php
+│   ├── reports.php
+│   ├── settings.php
+│   └── logout.php
+│
+├── /assets
+│   ├── banner.png
+│   ├── logo.png
+│   ├── dashboard.png
+│   ├── login.png
+│   └── invoice.png
+│
+├── /css
+│   ├── style.css
+│   ├── admin.css
+│   ├── dashboard.css
+│   └── responsive.css
+│
+├── /js
+│   ├── app.js
+│   ├── dashboard.js
+│   ├── validation.js
+│   └── search.js
+│
+├── /database
+│   ├── supershop.sql
+│   └── db_connect.php
+│
+├── /includes
+│   ├── header.php
+│   ├── footer.php
+│   ├── sidebar.php
+│   ├── navbar.php
+│   ├── auth.php
+│   ├── config.php
+│   └── functions.php
+│
+├── /uploads
+│   ├── products
+│   ├── invoices
+│   └── profiles
+│
+├── /screenshots
+│   ├── dashboard.png
+│   ├── products.png
+│   ├── inventory.png
+│   ├── billing.png
+│   └── reports.png
+│
+├── index.php
+├── login.php
+├── register.php
+├── dashboard.php
+├── invoice.php
+├── profile.php
+├── logout.php
+├── .env
+├── README.md
+└── LICENSE
+```
 ```
 
 ---
