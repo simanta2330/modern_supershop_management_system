@@ -1,4 +1,5 @@
-![Banner](assets/<img width="3000" height="1971" alt="banner" src="https://github.com/user-attachments/assets/6f7346ae-4aaa-4d4c-83d3-dd39aa059dd6" />
+![Banner](assets/<img width="3000" height="1971" alt="banner" src="<img width="1774" height="887" alt="ChatGPT Image May 21, 2026, 10_42_34 PM" src="https://github.com/user-attachments/assets/ef5595a7-4aed-49db-ba25-66e02e2f38af" />
+" />
 )
 
 # Modern Supershop Management System
