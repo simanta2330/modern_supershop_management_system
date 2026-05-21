@@ -1,7 +1,7 @@
- src="<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/c2995e1e-7c8d-46d9-8861-f8d71b035e29" />
+ <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/c2995e1e-7c8d-46d9-8861-f8d71b035e29" />
 
 
-)
+
 
 # Modern Supershop Management System
 
